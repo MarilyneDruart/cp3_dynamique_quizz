@@ -1,5 +1,5 @@
 body {
-    background-color: lightgrey;
+    background-color: rgb(207, 207, 207);
     font-family: monospace;
 }
 
@@ -16,12 +16,12 @@ h3 {
 
 #right {
     padding: 1rem 2rem;
-    background-color: darkgreen;
+    background-color: rgb(0, 85, 100);
     color: white;
 }
 
 #wrong {
     padding: 1rem 2rem;
-    background-color: darkred;
+    background-color: rgb(134, 0, 139);
     color: white;
 }
