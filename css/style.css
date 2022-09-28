@@ -18,10 +18,12 @@ h3 {
     padding: 1rem 2rem;
     background-color: rgb(0, 85, 100);
     color: white;
+    width: 35%;
 }
 
 #wrong {
     padding: 1rem 2rem;
     background-color: rgb(134, 0, 139);
     color: white;
+    width: 35%;
 }
