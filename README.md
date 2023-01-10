@@ -1,4 +1,4 @@
-# Développer une interface utilisateur web dynamique
+# Titre Professionnel - Compétence 3 : Développer une interface utilisateur web dynamique
 
 Création d’un jeu de Quizz codé en Javascript.
 
